@@ -2,7 +2,7 @@
 
 I'm **Marin Becker**, a student at 42 Paris where I started my cursus in November 2023. 
 
-📚 I’ve completed all my C projects at 42 and am now working on C++ and general IT projects. During my spare time, I'm also learning web development and system administration by coding and maintaining my own personal website from scratch. 
+📚 I’ve completed all my **C** projects at 42 and am now working on **C++** and general **IT** projects. During my spare time, I'm also learning **web development** and **system administration** by coding and maintaining my own personal website from scratch. 
 
 🧑🏻‍💻 My goal is to eventually work in as a devops engineer.  
 
