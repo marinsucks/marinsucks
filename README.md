@@ -9,4 +9,4 @@ I'm **Marin Becker**, a student at 42 Paris where I started my cursus in Novembe
 ✌️ Apart from work, I love creating awful melodies on the bass and getting my butt kicked by black belts in Brazilian Jiu Jitsu!    
 
 ### Contact
-For any questions or inquiries, feel free to contact me on [hello@marinbecker.me](mailto:hello@marinbecker.me). Also, you can try to take a look at [marinbecker.me](https://www.marinbecker.me) :)
+For any questions or inquiries, feel free to contact me on [hello@marinbecker.me](mailto:hello@marinbecker.me). Also, go take a look at [marinbecker.me](https://www.marinbecker.me) :)
