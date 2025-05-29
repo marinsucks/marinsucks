@@ -1,12 +1,13 @@
 ## Hello World!
 
-I'm **Marin Becker**, a student at 42 Paris where I started my cursus in November 2023. 
+I'm **Marin Becker**, a student at 42 Paris where I began my journey in November 2023.
 
-📚 I’ve completed all my **C** projects at 42 and am now working on **C++** and general **IT** projects. During my spare time, I'm also learning **web development** and **system administration** by coding and maintaining my own personal website from scratch. 
+📚 I’ve completed all my **C** and **C++** projects, and I’m now diving into new technologies with a focus on **DevOps** and **full-stack development**. In my free time, I explore system administration and web development by building and maintaining my own personal website from scratch.
 
-🧑🏻‍💻 My goal is to eventually work as a devops engineer. Next step: getting my first internship! 
+🧑🏻‍💻 I’m currently looking for my **first internship** in DevOps or full-stack development to gain hands-on experience and level up my skills.
 
-✌️ Apart from work, I love creating awful melodies on the bass and getting my butt kicked by black belts in Brazilian Jiu Jitsu!    
+✌️ When I’m not coding, you’ll probably find me getting strangled on the mats in Brazilian Jiu Jitsu or laying down some questionable basslines in my room :)
 
 ### Contact
-For any questions or inquiries, feel free to contact me on [hello@marinbecker.me](mailto:hello@marinbecker.me). Also, go take a look at [marinbecker.me](https://www.marinbecker.me) :)
+
+Feel free to reach out at [hello@marinbecker.me](mailto:hello@marinbecker.me) — and don’t forget to check out [marinbecker.me](https://www.marinbecker.me) 👀
