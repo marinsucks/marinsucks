@@ -1,10 +1,10 @@
 ## Hello World!
 
-I'm **Marin Becker**, a student at 42 Paris where I began my journey in November 2023.
+I'm **Marin Becker**, a student at [**42 Paris**](https://42.fr) where I began my journey in November 2023.
 
-📚 I’ve completed all my **C** and **C++** projects, and I’m now diving into new technologies with a focus on **DevOps** and **full-stack development**. In my free time, I explore system administration and web development by building and maintaining my own personal website from scratch.
+💻 After completing 42's common core, I’m currently working on **full-stack projects**, building web apps from scratch while preparing to **specialize in DevOps**.
 
-🧑🏻‍💻 I’m currently looking for my **first internship** in DevOps or full-stack development to gain hands-on experience and level up my skills.
+🚀 I’m about to start my **first internship** as a full-stack developer, following several months of hands-on learning and project work.
 
 ✌️ When I’m not coding, you’ll probably find me getting strangled on the mats in Brazilian Jiu Jitsu or laying down some questionable basslines in my room :)
 
