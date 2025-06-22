@@ -10,4 +10,4 @@ I'm **Marin Becker**, a student at [**42 Paris**](https://42.fr) where I began m
 
 ### Contact
 
-Feel free to reach out at [hello@marinbecker.me](mailto:hello@marinbecker.me) — and don’t forget to check out [marinbecker.me](https://www.marinbecker.me) 👀
+Feel free to reach out at [hello@marinbecker.me](mailto:hello@marinbecker.me) — and don’t forget to check out [my website](https://www.marinbecker.me) 👀
